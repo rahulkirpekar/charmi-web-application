@@ -1,0 +1,18 @@
+	JavaClass				Servlet(Java Class)
+						request,response
+
+Servlet:- "servlet-api.java"
+-----------
+	  Servlet(I)
+	    |
+	GenericServlet(AC)		
+	    |
+	HttpServlet(AC)
+	    |
+         FirstServlet
+
+	
+public class FirstServlet extends HttpServlet
+{
+
+}
